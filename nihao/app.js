@@ -26,4 +26,5 @@ function loadPlusApi(){
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(ga, s);
 	var niahoma=12343;
+	var xiaomign =234342;
 }
