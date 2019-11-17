@@ -25,4 +25,5 @@ function loadPlusApi(){
 	ga.src = 'https://apis.google.com/js/plusone.js';
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(ga, s);
+	var niahoma=12343;
 }
