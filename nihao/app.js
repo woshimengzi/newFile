@@ -27,4 +27,5 @@ function loadPlusApi(){
 	s.parentNode.insertBefore(ga, s);
 	var niahoma=12343;
 	var xiaomign =234342;
+	var bb=666;
 }
